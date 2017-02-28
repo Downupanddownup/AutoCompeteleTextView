@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetStudy</string>
+    <string-array name="string_list">
+        <item>TextOne</item>
+        <item>TextTwo</item>
+        <item>TextThree</item>
+        <item>TextFour</item>
+    </string-array>
+</resources>
